@@ -1,0 +1,16 @@
+{
+  "name": "grunt-git-info",
+  "version": "0.0.1",
+  "description": "Write Git commit information to file",
+  "main": "tasks/gruntGitInfoTask.js",
+  "author": {
+    "name": "Nikolai Kim",
+    "email": "ru.yaruson@gmail.com"
+  },
+  "license": "ISC",
+  "repository": "https://github.com/yaruson/grunt-git-info.git",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "standard": "^10.0.3"
+  }
+}
